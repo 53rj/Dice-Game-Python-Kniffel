@@ -47,6 +47,3 @@ All prompts and in-game text are in **German** (`ja` / `nein`, category names, e
 
 **Sergiy Stuempel** & **Markus Finger** — IT project, 1st semester.
 
-## License
-
-No license file is included in this repository. Add a `LICENSE` file if you want to clarify terms of use.
